@@ -1,4 +1,4 @@
-// music_player/init_music.js
+
 
 (function() { // Używamy IIFE (Immediately Invoked Function Expression), aby nie zaśmiecać globalnego zakresu
     // --- KONFIGURACJA ---
@@ -59,3 +59,4 @@
         });
     }
 })();
+
